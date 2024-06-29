@@ -1,0 +1,152 @@
+Uri: https://davis-html.netlify.app/assets/css/animate.css
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://davis-html.netlify.app/assets/css/bootstrap.min.css
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://davis-html.netlify.app/assets/css/fontawesome.css
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://davis-html.netlify.app/assets/css/lightgallery.min.css
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\css\lightgallery.min.css
+Content Type: text/css
+
+Uri: https://davis-html.netlify.app/assets/css/slick.css
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://davis-html.netlify.app/assets/css/style.css
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://davis-html.netlify.app/assets/img/blog/blog1.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\blog\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/blog/blog2.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\blog\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/blog/blog3.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\blog\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/client/client1.png
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\client\client1.png
+Content Type: image/png
+
+Uri: https://davis-html.netlify.app/assets/img/client/client2.png
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\client\client2.png
+Content Type: image/png
+
+Uri: https://davis-html.netlify.app/assets/img/client/client3.png
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\client\client3.png
+Content Type: image/png
+
+Uri: https://davis-html.netlify.app/assets/img/favicon.png
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://davis-html.netlify.app/assets/img/icon/quote.png
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\icon\quote.png
+Content Type: image/png
+
+Uri: https://davis-html.netlify.app/assets/img/icon/resume-icon1.png
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\icon\resume-icon1.png
+Content Type: image/png
+
+Uri: https://davis-html.netlify.app/assets/img/icon/resume-icon2.png
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\icon\resume-icon2.png
+Content Type: image/png
+
+Uri: https://davis-html.netlify.app/assets/img/logo.png
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio1.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio1.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio1_lg.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio1_lg.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio2.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio2.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio2_lg.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio2_lg.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio3.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio3.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio3_lg.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio3_lg.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio4.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio4.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio4_lg.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio4_lg.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio5.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio5.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio5_lg.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio5_lg.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio6.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio6.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/portfolio/portfolio6_lg.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\portfolio\portfolio6_lg.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/img/section/hero-img.jpg
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\img\section\hero-img.jpg
+Content Type: image/jpeg
+
+Uri: https://davis-html.netlify.app/assets/js/jquery-1.12.4.min.js
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\js\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://davis-html.netlify.app/assets/js/jquery.slick.min.js
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\js\jquery.slick.min.js
+Content Type: application/javascript
+
+Uri: https://davis-html.netlify.app/assets/js/lightgallery.min.js
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\js\lightgallery.min.js
+Content Type: application/javascript
+
+Uri: https://davis-html.netlify.app/assets/js/main.js
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://davis-html.netlify.app/assets/js/particles.min.js
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://davis-html.netlify.app/assets/js/ripples.min.js
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\js\ripples.min.js
+Content Type: application/javascript
+
+Uri: https://davis-html.netlify.app/assets/js/wow.min.js
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://davis-html.netlify.app/index1
+File Name: C:\Users\jai krishna\OneDrive\Desktop\my 2024 projects\davis-html.netlify.app\index1.html
+Content Type: text/html
+
